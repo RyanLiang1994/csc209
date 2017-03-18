@@ -1,0 +1,15 @@
+Chengjie Liang g5liangg
+0,1,11631,/u/csc209h/winter/pub/bin/checkstep1 ,Step 1 successfully completed.
+1,2,11631,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+0,2,11631,/u/csc209h/winter/pub/bin/checkstep2 ,Step 2 successfully completed.
+0,3,11631,checkstep3 ,Step 3 successfully completed.
+0,5,11631,checkstep5 ,Step 5 successfully completed.
+0,6,11631,checkstep6 ,Step 6 successfully completed.
+1,7,11631,checkstep7 -p 17175 ,You should be able to run this without the absolute path.
+1,7,11631,checkstep7 -p 18313 ,You must use a relative path
+0,7,11631,checkstep7 -p 18584 ,Step 7 successfully completed.
+1,71,11631,checkstep71 -p 18888 ,The process does not exist
+1,71,11631,checkstep71 22003 ,no -p
+0,71,11631,checkstep71 -p 22003 ,Step 7.1 successfully completed.
+0,72,11631,checkstep72 ,Step 7.2 successfully completed.
+0,8,11631,checkstep8 -n 475 ,Step 8 successfully completed.
